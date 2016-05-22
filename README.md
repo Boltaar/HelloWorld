@@ -1,3 +1,5 @@
+Extra koment.
+
 <<<<<<< HEAD
 <--Komentarz ... Ciemin ssie w OW-->
 
